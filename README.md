@@ -10,15 +10,15 @@
     <tr> 
         <td align="center">
             <img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="100"/><br/> 
-            <sub><b>이한음</b></sub> 
+            <sub><b>한정민</b></sub> 
         </td> 
         <td align="center"> 
-            <img src="깃허브_프로필_URL" width="100"/><br/> 
-            <sub><b>이름</b></sub> 
+            <img src="https://github.com/jeongminneee" width="100"/><br/> 
+            <sub><b>한정민</b></sub> 
         </td>
         <td align="center"> 
-            <img src="깃허브_프로필_URL" width="100"/><br/> 
-            <sub><b>이름</b></sub> 
+            <img src="https://github.com/jeongminneee" width="100"/><br/> 
+            <sub><b>한정민</b></sub> 
         </td> 
     </tr> 
 </table>
