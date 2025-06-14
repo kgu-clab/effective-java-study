@@ -8,18 +8,18 @@
 
 <table> 
     <tr> 
-        <td align="center">
-            <img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="100"/><br/> 
-            <sub><b>한정민</b></sub> 
-        </td> 
         <td align="center"> 
-            <img src="https://github.com/jeongminneee" width="100"/><br/> 
-            <sub><b>한정민</b></sub> 
+            <img src="https://avatars.githubusercontent.com/2heunxun" width="100"/><br/> 
+            <sub><b>유승헌</b></sub> 
         </td>
         <td align="center"> 
-            <img src="https://github.com/jeongminneee" width="100"/><br/> 
-            <sub><b>한정민</b></sub> 
+            <img src="https://avatars.githubusercontent.com/u/128132449?v=4" width="100"/><br/> 
+            <sub><b>장영후</b></sub> 
         </td> 
+        <td align="center">
+           <img src="https://github.com/jeongminneee" width="100"/><br/>
+           <sub><b>한정민</b></sub>
+        </td>
     </tr> 
 </table>
 
