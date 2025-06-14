@@ -20,6 +20,10 @@
             <img src="https://avatars.githubusercontent.com/u/128132449?v=4" width="100"/><br/> 
             <sub><b>장영후</b></sub> 
         </td> 
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/174999737?s=400&u=cea7dcc7c3f0e7c0d6c281f8b9f96e7b697890df&v=4" width="100"/><br/> 
+            <sub><b>한정민</b></sub> 
+        </td> 
     </tr> 
 </table>
 
