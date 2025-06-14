@@ -88,7 +88,7 @@ requireNonNull이란 ?
 
 파라미터로 입력된 값이 null이라면 **NullPointerException**이 발생하고, 그렇지 않다면 입력값을 그래도 반환한다.
 
-![image.png](image 1.png)
+![image.png](image_1.png)
 
  
 
