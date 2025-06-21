@@ -17,8 +17,12 @@
             <sub><b>유승헌</b></sub> 
         </td>
         <td align="center"> 
-            <img src="깃허브_프로필_URL" width="100"/><br/> 
-            <sub><b>이름</b></sub> 
+            <img src="https://avatars.githubusercontent.com/u/128132449?v=4" width="100"/><br/> 
+            <sub><b>장영후</b></sub> 
+        </td> 
+        <td align="center">
+            <img src="https://avatars.githubusercontent.com/u/174999737?v=4" width="100"/><br/> 
+            <sub><b>한정민</b></sub> 
         </td> 
     </tr> 
 </table>
