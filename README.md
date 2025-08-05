@@ -9,21 +9,29 @@
 <table> 
     <tr> 
         <td align="center">
-            <img src="https://avatars.githubusercontent.com/u/103233513?v=4" width="100"/><br/> 
+            <img src="https://github.com/leehaneum.png" width="100"/><br/> 
             <sub><b>이한음</b></sub> 
         </td> 
         <td align="center"> 
-            <img src="https://avatars.githubusercontent.com/2heunxun" width="100"/><br/> 
+            <img src="https://github.com/2heunxun.png" width="100"/><br/> 
             <sub><b>유승헌</b></sub> 
         </td>
         <td align="center"> 
-            <img src="https://avatars.githubusercontent.com/u/128132449?v=4" width="100"/><br/> 
+            <img src="https://github.com/JangYeongHu.png" width="100"/><br/> 
             <sub><b>장영후</b></sub> 
         </td> 
         <td align="center">
-            <img src="https://avatars.githubusercontent.com/u/174999737?v=4" width="100"/><br/> 
+            <img src="https://github.com/jeongminneee.png" width="100"/><br/> 
             <sub><b>한정민</b></sub> 
         </td> 
+         <td align="center">
+            <img src="https://github.com/hoTan35.png" width="100"/><br/> 
+            <sub><b>황호찬</b></sub> 
+        </td>
+         <td align="center">
+            <img src="https://github.com/ThonApple.png" width="100"/><br/> 
+            <sub><b>김동현</b></sub> 
+        </td>
     </tr> 
 </table>
 
