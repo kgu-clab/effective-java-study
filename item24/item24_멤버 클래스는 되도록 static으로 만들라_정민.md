@@ -56,12 +56,12 @@
 예제) Set, List와 같은 컬렉션 인터페이스 구현에서 자신의 반복자를 구현할 때 비정적 멤버 클래스를 사용함
 
 ```java
-public class MySet<E> extends AbstractSet<E> {
- // 생략
+public class MySet<E> extends AbstractSet<E> { 
+    // 생략
 @Override public Iterator<E> iterator() {
 return new Mylterator();
 }
-private class Mylterator implements Iterator<E> {
+private class MyIterator implements Iterator<E> {
 }
 }
 ```
