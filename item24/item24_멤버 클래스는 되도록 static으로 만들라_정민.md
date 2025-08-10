@@ -57,7 +57,7 @@
 
 ```java
 public class MySet<E> extends AbstractSet<E> {
-... // 생략
+ // 생략
 @Override public Iterator<E> iterator() {
 return new Mylterator();
 }
