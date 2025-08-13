@@ -27,7 +27,7 @@ Double_Trio = 3 x 2 = 6을 의미하지만 sextet이 살아있고 그걸 한칸�
 public enum Ensemble {
 SOLO(1), DUET(2), TRI0(3), QUARTET(4), QUINTET(5),
 SEXTET(6), SEPTET(7), 0CTET(8), D0UBLE_QUARTET(8),
-N0NET(9), DECTET(10)r TRIPLE_QUARTET(12);
+N0NET(9), DECTET(10), TRIPLE_QUARTET(12);
 private final int numberOfMusicians;
 Ensemble(int size) { this.numberOfMusicians = size; }
 public int numberOfMusicians() { return numberOfMusicians; }
