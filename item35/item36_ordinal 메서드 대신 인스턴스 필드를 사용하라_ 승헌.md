@@ -1,5 +1,4 @@
-# ordinal 메서드 대신 인스턴스 필드를
-사용하라
+# ordinal 메서드 대신 인스턴스 필드를 사용하라
 
 ```java
 public enum Ensemble {
